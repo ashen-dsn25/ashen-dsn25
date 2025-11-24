@@ -9,7 +9,7 @@
 ### 🎓 BSc in Computer Science (Reading) — University of Jaffna  
 ### 🚀 Full-Stack Developer | MERN Stack | UI/UX Enthusiast  
 
-<img src="https://komarev.com/ghpvc/?username=ashendissanayake1999&label=Profile%20views&color=blueviolet&style=flat" alt="profile-views" />
+<img src="https://komarev.com/ghpvc/?username=ashen-dsn25&label=Profile%20views&color=blueviolet&style=flat" alt="profile-views" />
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashendissanayake1999&layout=compact&theme=tokyonight" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashen-dsn25&layout=compact&theme=tokyonight" alt="top-langs" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashendissanayake1999&theme=tokyonight&row=1" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashen-dsn25&theme=tokyonight&row=1" alt="trophies" />
 </p>
 
 </div>
