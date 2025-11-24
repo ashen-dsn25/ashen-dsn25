@@ -50,7 +50,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashendissanayake1999&theme=tokyonight" alt="streak-stats" />
+  <img src="https://streak-stats.demolab.com?user=ashen-dsn25&theme=tokyonight" alt="streak-stats" />
 </p>
 
 ---
